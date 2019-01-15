@@ -10,7 +10,7 @@ L'application développée consiste à parcourir un fichier au format csv compos
 ## Exemple
 
 ```
-./bindist/bin/hello.bat --i samples/nom.csv
+./bindist/bin/hello.bat --i samples/noms.csv
 
 Hello AUBRY RODOLPHE !
 Hello CALLEY NICOLAS !
